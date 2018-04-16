@@ -10,7 +10,7 @@
 	<h1>Witaj na stronie <strong> Pożyczek u Bronka</strong></h1>
 	<em>-"Komornik to Nasz przyjaciel"</em>
 	<br>
-	<a href="/LoanParameters.jsp">Złóż wniosek online</a>
+	<a href="/loanParameters.jsp">Złóż wniosek online</a>
 </body>
 
 </html>
